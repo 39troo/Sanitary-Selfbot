@@ -1,0 +1,43 @@
+{
+    "token": "token-here",
+    "password": "password-here",
+    "prefix": "=",
+
+    "afk_message": "Set you afk message here!", 
+    "purge_message": "Purge Message Goes Here!",
+    
+    "auto_message": "Auto-Message Goes Here Apes",
+    "auto_message_time": "1",
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+    "slotbot_sniper": false,
+    "privnote_sniper": true,
+
+    "telegram_notifications": false,
+    "telegram_userid": "userid-here",
+
+    "discord_notifications": false,
+    "discord_webhook": "Discord-webhook-link-here",
+
+    "stream_url": "https://twitch.tv/monstercat",
+    "tts_language": "en",
+
+    "paypal": "paypal-email-here",
+    "btc": "btc-address-here",
+    "paypal_me": "paypalme-username",
+
+    "instagram_username": "username",
+    "snapchat_username": "username",
+    "twitter_username": "username",
+    "twitch_username": "username",
+    "youtube_link": "youtube-link",
+    "steam_link": "steam-link",
+
+    "embedcolor": "0x000000",
+
+    "bitly_key": "bitly-key-here",
+    "cat_key": "cat-key-here",
+    "weather_key": "814cf5cc8f0f90eb0d5633b683fe61ec",
+    "cuttly_key": "dcc9a00a71f180792457090bed4405e52ea01"
+}
